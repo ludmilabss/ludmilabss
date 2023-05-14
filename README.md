@@ -33,9 +33,10 @@
     <a href="https://br.pinterest.com/ludmilabss/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/hmie6yrezrmzfssof7bxenz1j"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
   
     ![Snake animation](https://github.com/ludmilabss/ludmilabss/blob/output/github-contribution-grid-snake.svg)
-</div>
+
   
   
  
