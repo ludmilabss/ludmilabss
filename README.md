@@ -4,7 +4,7 @@
 - 🇧🇷 Tenho dezoito anos e moro no Brasil
 - 🦫 Desbravando Golang
 - 💪 Frequentemente fazendo hora na academia
-- 🐈 Fã numéro 1 da minha gata
+- 🐈 Fã número 1 da minha gata
 <div align="justify">
   <a href="https://github.com/ludmilabss/ludmilabss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludmilabss&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -33,10 +33,12 @@
     <a href="https://br.pinterest.com/ludmilabss/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/hmie6yrezrmzfssof7bxenz1j"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+    ![Snake animation](https://github.com/ludmilabss/ludmilabss/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-![Snake animation](https://github.com/ludmilabss/ludmilabss/blob/output/github-contribution-grid-snake.svg)
-
+  
+ 
   
 
   
