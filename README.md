@@ -1,9 +1,7 @@
 <h1>Oioi! Eu sou a Ludmila Barbosa</h1>
 
 - 💻 Estudante de Sistemas de Informação
-- 🇧🇷 Tenho dezoito anos e moro no Brasil
 - 🦫 Desbravando Golang
-- 💪 Frequentemente fazendo hora na academia
 - 🐈 Fã número 1 da minha gata
 <div align="justify">
   <a href="https://github.com/ludmilabss/ludmilabss">
