@@ -22,8 +22,8 @@
 @@I'm an MPB fan and my cat@@
 
 + Living in Alagoas, Brazil 🇧🇷 
-- 19 years old 
-! I enjoy Python, programming in Go and saying "hello, world!" in some others
+- 20 years old 
+! I enjoy Java, programming in Go and saying "hello, world!" in some others
 # interested in learning to really program and play "Deusa do Amor" on the guitar
 ```
 
